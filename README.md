@@ -9,7 +9,7 @@ Me gusta dibujar🎭
 Jugar videojuegos🎮
 
 
-# HOARIO
+# HORARIO
 | Hora        | Lunes                  | Martes                            | Miercoles                        | Jueves                           | Viernes                          |
 |-------------|------------------------|-----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | 7:00/7:50   | COMUNIDADES  VIRTUALES | MANTENIMIENTO  Y REDES DE COMPUTO | MANTENIMIENTO Y REDES DE COMPUTO | FISICA                           | MANTENIMIENTO Y REDES DE COMPUTO |
